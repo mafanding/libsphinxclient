@@ -1,0 +1,21 @@
+{
+    "name": "fenton/libsphinx",
+    "description": "sphinx client api package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fenton Ma",
+            "email": "mfdboy@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0" 
+    },
+    "autoload": {
+        "psr-4": {
+            "Fenton\\Sphinx\\": "src/Fenton/Sphinx"
+        }
+    }
+}
