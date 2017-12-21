@@ -1,5 +1,5 @@
 {
-    "name": "fenton/libsphinxclient",
+    "name": "fenton/libsphinx",
     "description": "sphinx client api package",
     "type": "library",
     "license": "MIT",
