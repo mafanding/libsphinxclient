@@ -3,6 +3,7 @@
     "description": "sphinx client api package",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Fenton Ma",
@@ -10,9 +11,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "version": {
-        "1.0.0"
-    },
     "require": {
         "php": ">=7.0.0" 
     },
